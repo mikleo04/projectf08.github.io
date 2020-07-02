@@ -1,0 +1,80 @@
+.container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.top-content{
+    color: blanchedalmond;
+    text-align: center;
+    background-size: cover;
+    padding: 180px 0px;
+}
+.top-content h1{
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+    opacity: 0.7;
+}
+.top-content p{
+    font-size: 20px;
+    opacity:  0.8;
+}
+.top-menu{
+    height: 700px;
+    padding-bottom: 80px ;
+    background-color: #fcba03          /* #5f5d60 */;
+    text-align: center;
+}
+.food{
+    float: left;
+    width: 20%;
+    background-color: darkorange           /*dimgray*/;
+    margin: 0px 28px;
+    padding: 15px 0px; 
+}
+.heading {
+    padding-top: 60px;
+    margin-bottom: 30px;
+    color: azure;
+    font-size: 30px;
+}
+.food-icon{
+    position: relative;
+}
+.food-icon img{
+    opacity: 0.9;
+}
+.food-icon p{
+    position: absolute;
+    width: 100%;
+    top: 0%;
+    color: azure;
+    font-size: 17px;
+    font-weight: bold;
+}
+.txt-contents{
+    width: 90%;
+    display: inline-block;
+    font-size: 15px;
+    color: azure;
+}
+.botton{
+    padding: 12px 24px;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px; 
+}
+.pesan{
+    background-color: dimgray  /* deeppink*/ ;
+    color: darkorange             /*dimgray*/;
+    margin-right: 5px;
+    font-weight: bold;
+}
+.deskripsi{
+    background-color: dimgray    /* deepskyblue*/;
+    color: darkorange                    /* dimgray*/;
+    font-weight: bold;
+}
+.botton:hover{
+    opacity: 1;
+}
