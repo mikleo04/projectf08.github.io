@@ -1,3 +1,6 @@
+body{
+    width: 100%;
+}
 .container {
     width: 1170px;
     padding: 0 15px;
@@ -66,13 +69,13 @@
 }
 .pesan{
     background-color: dimgray  /* deeppink*/ ;
-    color: darkorange             /*dimgray*/;
+    color: white            /*dimgray*/;
     margin-right: 5px;
     font-weight: bold;
 }
 .deskripsi{
     background-color: dimgray    /* deepskyblue*/;
-    color: darkorange                    /* dimgray*/;
+    color: white                 /* dimgray*/;
     font-weight: bold;
 }
 .botton:hover{
