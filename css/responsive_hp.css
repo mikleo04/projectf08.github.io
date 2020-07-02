@@ -1,0 +1,172 @@
+@media(max-width: 670px){
+    .tim{
+        background-color: #f7f7f7;
+        height: auto;
+        text-align: center;
+        width: 100%;
+        height: 560px;
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+        padding-top: 10px;
+    }
+    .contain{
+        width: 100%;
+        padding: 0 15px;
+        margin: 0 auto;
+        text-align: center;
+        justify-content: center;
+    }
+    .list{
+        flex-wrap: wrap;
+        justify-content: center;
+        position: relative;
+        width: 100%;
+        text-align: center;
+    }
+    .list p{
+        color: black;
+        top: 20%;
+        width: 100%;
+        position: absolute;
+        font-size: 20px;
+        font-weight: bold;
+        font-family: monospace;
+    }
+    .list img{
+        width: 80%;
+        height: 100px;
+    }
+
+    header .container {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+      }
+      
+      header {
+        height: 45px;
+        width: 100%;
+        background-color: rgba(237, 163, 88, 0.9);
+        position :fixed;
+        top: 0;
+        z-index: 10;
+      }
+      
+      .header-left {
+        font-size: 23px;
+        float: left;
+        padding: 10px 7px;
+        color: white;
+        cursor: pointer;
+      }
+      .header-right a {
+        line-height: 45px;
+        padding: 0 15px;
+        color: white;
+        display: block;
+        float: left;
+        transition: all 0.5s;
+      }
+
+    body{
+        width: 100%;
+    }
+    .container {
+        width: 100%;
+        padding: 0 15px;
+        margin: 0 auto;
+    }
+    .top-content{
+        color: blanchedalmond;
+        text-align: center;
+        background-size: cover;
+        padding: 150px 0px;
+        width: 100%;
+        height: 100%;
+    }
+    .top-content h1{
+        font-size: 25px;
+        letter-spacing: 3px;
+        margin-bottom: 10px;
+        opacity: 0.7;
+    }
+    .top-content p{
+        font-size: 15px;
+        opacity:  0.8;
+    }
+    .top-menu{
+        height: 1700px;
+        width: 100%;
+        padding-bottom: 60px ;
+        background-color: #fcba03          /* #5f5d60 */;
+
+    }
+    .food{
+        float: left;
+        width: 90%;
+        background-color: darkorange           /*dimgray*/;
+        margin: 5px 17px;
+        padding: 20px 0px;
+        text-align: center;
+        justify-content: center; 
+    }
+    .heading {
+        padding-top: 20px;
+        margin-bottom: 30px;
+        color: azure;
+        font-size: 30px;
+    }
+    .food-icon{
+        position: relative;
+    }
+    .food-icon img{
+        opacity: 0.9;
+    }
+    .food-icon p{
+        position: absolute;
+        width: 100%;
+        top: 0%;
+        color: azure;
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .txt-contents{
+        width: 90%;
+        display: inline-block;
+        font-size: 15px;
+        color: azure;
+    }
+    .second-main {
+        width: 100%;
+        height: 1400px;
+        padding-bottom: 0;
+        margin-bottom: 0;
+      }
+    
+      .container {
+        max-width: 100%;
+        padding: 0 10px;
+        margin: 0 auto;
+      }
+    
+      .kontens {
+        width: 100%;
+      }
+    
+      .konten {
+          display: inline-block;
+          width: 100%;
+          height: 400px;
+      }
+      .konten iframe {
+          width: 80%;
+          height: 290px;
+      }
+      .pesan-klik img{
+          width: 80%;
+          height: 90%;
+      }
+      .pesan-klik{
+          padding-left: 0;
+      }
+}
