@@ -22,11 +22,11 @@ a {
 }
 
 .second-main {
-  border-bottom: 1px solid #eee;
   padding-bottom: 80px;
-  background-color: #fcba03;
+  background-color: #f1d1b5;
   height: 570px;
-  border-top: 10px solid black;
+  border-top: 3px solid rgb(240, 183, 164);
+  color: gray;
 }
 
 .second-heading {
@@ -48,7 +48,7 @@ a {
     padding-right: 70px;
     padding-top: 10px;
     margin: 5px auto;
-    border: 1px solid #222222;
+    border: 1px solid white;
     border-radius: 5px;
 }
 
@@ -69,8 +69,8 @@ a {
 }
 
 .pesan-map p {
-	color: white;
-	background-color: #d49219;
+	color: azure;
+	background-color: #f0b7a4;
 }
 
 .pesan-map iframe{
@@ -93,10 +93,11 @@ a {
 
 .button-pesan {
   padding: 15px 40px;
-  background-color: #ff9e2f;
+  background-color: rgb(240, 183, 164);
   cursor: pointer;
-  box-shadow: 0 7px #9e560e;
+  box-shadow: 0 7px darksalmon ;
   border-radius: 13px;
+  color: azure;
 }
 
 .button-pesan:active {
