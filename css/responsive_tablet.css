@@ -1,0 +1,136 @@
+/* For Tablets */
+@media(max-width: 1024px) {
+  body{
+    width: 100%;
+  }
+  .container {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  
+  header {
+    height: 45px;
+    width: 100%;
+  }
+  
+  .header-left {
+    font-size: 23px;
+    float: left;
+    padding: 10px 7px;
+  }
+  .header-right a {
+    line-height: 45px;
+    padding: 0 15px;
+  }
+  .food{
+    width: 40%;
+    margin-bottom:  50px;
+    margin-left: 50px;
+  }
+  
+  .top-menu{
+    height: 1000px;
+    padding: 0px 10%; 
+  }
+  .second-main {
+    width: 100%;
+    height: 600px;
+  }
+  .konten {
+    display: contents;
+    width: 50%;
+    height: 400px;
+  }
+
+  .kontens h1 {
+    font-size: 32px;
+  }
+  .second-heading{
+    padding-top: 20px;
+  }
+  .kontens h2 {
+    font-size: 20px;
+  }
+  .konten .pesan-form{
+    width: 33%;
+    float: left;
+  }
+  .konten .pesan-map{
+    width: 33%;
+    float: left;
+  }
+  .pesan-map iframe{
+    width: 100%;
+    height: 300px;
+  }
+  .pesan-klik{
+    width: 33%;
+    float: left;
+  }
+
+  .footer {
+    height : 130px;
+    padding-right: 5%;
+    padding-left: 5%;
+  }
+  .footer-list {
+    margin-top : 8px;
+  }
+  .footer-list h4{
+    font-size : 30px;
+  }
+  .footer-list p {
+    margin-right: 5px;
+    padding-left : 5px;
+    font-size : 18px;
+  }
+  .footer-list b {
+    padding-left : 120px;
+    font-size : 20px;
+  }
+  .footer-list img {
+    float :  right;
+    height : 25px;
+    width : 25px;
+    padding-top : 10px;
+    margin-left : 5px;
+    padding-right: 5px;
+    margin-right: 10px;
+  }
+  .footer-list li {
+    margin-right: 25px;
+    padding-left: 160px;
+    padding-bottom: 10px;
+    font-size : 20px;
+  }
+  .copyright p {
+    font-size : 20px;
+    padding-top : 8px;
+    padding-right : 20px;
+    height : 30px;
+  }
+  .tim{
+    width: 100%;
+    height: 150px;
+  }
+  .contain{
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+  }
+  .list{
+    justify-content: center;
+    width: 20%;
+    float: left;
+    text-align: center;
+  }
+  .list p{
+    top: 25%;
+    width: 100%;
+  }
+  .list img{
+    width: 80%;
+    height: 120px;
+  }
+}
