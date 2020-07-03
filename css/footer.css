@@ -1,7 +1,7 @@
 .footer {
-    background-color: white;
+    background-color: #305f72;
     height : 180px;
-    color : black;
+    color : #f1d1b5;
 }
 
 .footer-list {
@@ -51,13 +51,13 @@
     text-align : right;
     padding-top : 7px;
     padding-right : 40px;
-    background-color : rgba(237, 163, 88, 0.9);
+    background-color : #305f72;
     height : 40px;
-    color : white;
+    color : #f1d1b5;
     font-size : 20px;
 }
 .copyright{
-    margin-top: 10px;
+    margin-top: 0px;
     padding: 0;
     margin-bottom: 0;
 }  
