@@ -8,6 +8,7 @@
     float: left;
     width : 25%;
     margin-top : 10px;
+    text-align: center;
 }
 
 .footer-list h4{
@@ -21,7 +22,7 @@
 }
 .footer-list b {
     margin-right : 0;
-    padding-left: 150px;
+    padding-left: 0;
     font-size : 20px;
 }
 

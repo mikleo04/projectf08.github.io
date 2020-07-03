@@ -93,31 +93,31 @@
         margin: 0 auto;
     }
     
-.konten {
-    flex-direction: column;
-    display: inline-block;
-    width: 100%;
-    height: 350px;
-}
+    .konten {
+        flex-direction: column;
+        display: inline-block;
+        width: 100%;
+        height: 350px;
+    }
 
-.konten .pesan-map {
-    width: 100%;
-}
+    .konten .pesan-map {
+        width: 100%;
+    }
 
-.konten iframe {
-    width: 100%;
-    height: 300px;
-}
+    .konten iframe {
+        width: 100%;
+        height: 300px;
+    }
 
-.konten .pesan-form {
-    width: 100%;
-    padding: 0 10%;
-    float: left;
-}
+    .konten .pesan-form {
+        width: 100%;
+        padding: 0 10%;
+        float: left;
+    }
 
-.konten .pesan-klik {
-    width: 100%
-}
+    .konten .pesan-klik {
+        width: 100%
+    }
     .pesan-klik img{
         width: 80%;
         height: 90%;
@@ -150,7 +150,8 @@
         height : 20px;
         width : 20px;
         padding-top : 5px;
-        padding-right: 8px;
+        padding-right: 2px;
+        margin: 0;
     }
     .footer-list li {
         margin-right: 5px;
