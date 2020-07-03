@@ -23,20 +23,20 @@ body{
     opacity:  0.8;
 }
 .top-menu{
-    height: 700px;
+    height: 600px;
     padding-bottom: 80px ;
-    background-color: #fcba03          /* #5f5d60 */;
+    background-color: #f1d1b5;          /* #5f5d60 */;
     text-align: center;
 }
 .food{
     float: left;
     width: 20%;
-    background-color: darkorange           /*dimgray*/;
+    background-color: rgb(240, 183, 164)           /*dimgray*/;
     margin: 0px 28px;
     padding: 15px 0px; 
 }
 .heading {
-    padding-top: 60px;
+    padding-top: 30px;
     margin-bottom: 30px;
     color: azure;
     font-size: 30px;
@@ -59,7 +59,7 @@ body{
     width: 90%;
     display: inline-block;
     font-size: 15px;
-    color: azure;
+    color: gray;
 }
 .botton{
     padding: 12px 24px;
@@ -69,13 +69,13 @@ body{
 }
 .pesan{
     background-color: dimgray  /* deeppink*/ ;
-    color: white            /*dimgray*/;
+    color: #f1d1b5;            /*dimgray*/;
     margin-right: 5px;
     font-weight: bold;
 }
 .deskripsi{
     background-color: dimgray    /* deepskyblue*/;
-    color: white                 /* dimgray*/;
+    color: #f1d1b5;                 /* dimgray*/;
     font-weight: bold;
 }
 .botton:hover{
